@@ -20,7 +20,7 @@ ensure_directories()
 # -------------------------------
 # Configure Gemini API key
 # -------------------------------
-genai.configure(api_key="AIzaSyC7t7hp93FaziT0uOrZs7j10-cr1zcR87I")  # secure this key before deployment
+genai.configure(api_key="ENTER KEY ")  # secure this key before deployment
 
 # -------------------------------
 # Image Functions
